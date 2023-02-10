@@ -2,15 +2,15 @@ https://hackdays.shopify.io/projects/15769
 
 Spend hackdays learning som rust. 
 
-*`./chess`* is partially implemented CLI based chess game. 
+`./chess` is a partially implemented CLI based chess game. 
 
 Includes:
-- Move validation engine (**partially** implemented for pawns)
+- Move validation engine (*partially* implemented for pawns)
 - Board drawing engine
 - Unit tests
 - Chess coordinate parser that maps human input to games tile array indexs. Ex. `c2 -> [6][1]`
 
-*`./conway`* is a implementation of the conways game of life cellular automation
+`./conway` is a implementation of the conways game of life cellular automation
 
 `./fibonacci` calculates nth fibonaci number. Contains ruby implmentation for speed comparison.
 
