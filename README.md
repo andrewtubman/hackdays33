@@ -5,7 +5,7 @@ Spend hackdays learning som rust.
 *`./chess`* is partially implemented CLI based chess game. 
 
 Includes:
-- Move validation engine (only implemented for pawns)
+- Move validation engine (**partially** implemented for pawns)
 - Board drawing engine
 - Unit tests
 - Chess coordinate parser that maps human input to games tile array indexs. Ex. `c2 -> [6][1]`
