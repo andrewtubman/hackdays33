@@ -8,7 +8,7 @@ Includes:
 - Move validation engine (*partially* implemented for pawns)
 - Board drawing engine
 - Unit tests
-- Chess coordinate parser that maps human input to games tile array indexs. Ex. `c2 -> [6][1]`
+- Chess coordinate parser that maps human input to games tile array indexes. Ex. `c2 -> [6][1]`
 
 `./conway` is a implementation of the conways game of life cellular automation
 
